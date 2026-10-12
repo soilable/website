@@ -1,0 +1,28 @@
+# Old/new permalink migration to retained legacy English paths
+# Both .html and extensionless variants are redirected to the canonical pages.
+/index-zh-hant /zh-hant/ 301
+/index-zh-hant.html /zh-hant/ 301
+/soilable-about /about-us/ 301
+/soilable-about.html /about-us/ 301
+/soilable-about-zh-hant /zh-hant/about-us/ 301
+/soilable-about-zh-hant.html /zh-hant/about-us/ 301
+/soilable-standard-straw /standard-straw/ 301
+/soilable-standard-straw.html /standard-straw/ 301
+/soilable-standard-straw-zh-hant /zh-hant/standard-straw/ 301
+/soilable-standard-straw-zh-hant.html /zh-hant/standard-straw/ 301
+/soilable-bubble-tea-straw /bubble-tea-straw/ 301
+/soilable-bubble-tea-straw.html /bubble-tea-straw/ 301
+/soilable-bubble-tea-straw-zh-hant /zh-hant/bubble-tea-straw/ 301
+/soilable-bubble-tea-straw-zh-hant.html /zh-hant/bubble-tea-straw/ 301
+/soilable-stirrer-straw /stirrer-straw/ 301
+/soilable-stirrer-straw.html /stirrer-straw/ 301
+/soilable-stirrer-straw-zh-hant /zh-hant/stirrer-straw/ 301
+/soilable-stirrer-straw-zh-hant.html /zh-hant/stirrer-straw/ 301
+/soilable-custom-print-straw /custom-print-straw/ 301
+/soilable-custom-print-straw.html /custom-print-straw/ 301
+/soilable-custom-print-straw-zh-hant /zh-hant/custom-print-straw/ 301
+/soilable-custom-print-straw-zh-hant.html /zh-hant/custom-print-straw/ 301
+/soilable-contact /contact-us/ 301
+/soilable-contact.html /contact-us/ 301
+/soilable-contact-zh-hant /zh-hant/contact-us/ 301
+/soilable-contact-zh-hant.html /zh-hant/contact-us/ 301
